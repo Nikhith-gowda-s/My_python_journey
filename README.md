@@ -1,1 +1,3 @@
-# My_python_journey
+# My Python journey
+
+##Starting from the scratch
