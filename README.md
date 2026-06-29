@@ -1,4 +1,4 @@
-# My Python journey
+# My Python Journey
 
 Hi! I'm **Nikhith Gowda S**.
 
