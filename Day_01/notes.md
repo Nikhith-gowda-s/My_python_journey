@@ -90,5 +90,25 @@ Python executes code line by line using an interpreter, which makes debugging ea
 - Cross-platform support
 
 ---
+## Practice
+
+Program to print my name:
+
+```python
+print("Namaste, nanna hesaru <Your Name>!")
+```
+
+---
+
+
+## Summary
+
+By the end of Day 1, I can:
+
+- Explain what Python is.
+- Install Python successfully.
+- Verify the installation.
+- Write and execute a basic Python program.
+- Understand why Python is an interpreted language.
 
 
