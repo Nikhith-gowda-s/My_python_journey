@@ -22,7 +22,9 @@ Python is a high-level, interpreted, and general-purpose programming language. I
 - Artificial Intelligence
 
 ---
+---
 
+> *Code. Learn. Commit. Repeat.*
 ## Why Python?
 
 Some of the reasons Python is widely used:
@@ -112,3 +114,6 @@ By the end of Day 1, I can:
 - Understand why Python is an interpreted language.
 
 
+---
+
+> *Code. Learn. Commit. Repeat.*
