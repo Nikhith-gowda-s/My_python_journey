@@ -9,8 +9,6 @@ This repository documents my progress as I learn Python from the ground up. Ever
 ## 🎯 Why I'm Learning Python
 
 I decided to begin my technical journey with Python because of its simplicity, versatility, and wide range of applications, including:
-
-- Web Development
 - Automation
 - Artificial Intelligence
 - Data Science
