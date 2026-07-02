@@ -29,3 +29,6 @@ If you're also learning Python or have suggestions to improve my code, feel free
 Learning is always better together! 
 
 ---
+
+> **"The expert in anything was once a beginner."** 🚀
+
