@@ -10,7 +10,7 @@ This repository documents my progress as I learn Python from the ground up. Ever
 
 I decided to begin my technical journey with Python because of its simplicity, versatility, and wide range of applications, including:
 - Automation
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence & Machine Learning (AI & ML)
 - Data Science
 - Cybersecurity
 
